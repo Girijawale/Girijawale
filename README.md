@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Girijawale
 - 👀 I’m interested in programmming
-- 🌱 I’m currently learning web developmen
+- 🌱 I’m currently learning web development
 
 <!---
 Girijawale/Girijawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
